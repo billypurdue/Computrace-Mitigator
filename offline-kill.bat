@@ -3,7 +3,7 @@
 
 setlocal enabledelayedexpansion
 
-echo Offline Computrace Kill Script v1.0 by h0d0r
+echo Offline Computrace Kill Script v1.0 by billypurdue
 echo Based on Kippykip's original script
 
 echo Available volumes/drives:
